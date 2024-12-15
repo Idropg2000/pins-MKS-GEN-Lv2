@@ -7,7 +7,8 @@ Last revision08/02/2024
 Below is the pin mapping for the Atmega2560. The chip used in Arduino 2560. There are pin mappings to Atmega8 and Atmega 168/328 as well.
 
 Arduino Mega 2560 PIN diagram.
-https://docs.arduino.cc/static/ed4d33b86bac66d54959fbb186795a11/54c3a/PinMap2560big_Rev2.png
+![PinMap2560big_Rev2](https://github.com/user-attachments/assets/470aa0f1-2544-4939-802a-356d8c5a000f)
+
 # Arduino Mega 2560 Pin Mapping Table
 
 Esta tabla describe el mapeo de pines del ATmega2560 en la placa Arduino Mega 2560, incluyendo su correspondencia con los nombres utilizados en Klipper o el entorno Arduino.
